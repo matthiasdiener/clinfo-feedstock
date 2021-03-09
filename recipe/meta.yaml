@@ -1,5 +1,5 @@
 {% set name = "clinfo" %}
-{% set version = "2.2.18.04.06" %}
+{% set version = "3.0.21.02.21" %}
 
 package:
   name: {{ name|lower }}
